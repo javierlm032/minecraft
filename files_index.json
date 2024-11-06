@@ -194,10 +194,10 @@
       "config/config.zip",
     ],
     "resourcepacks": [
-      "resourcepacks/loadingbackgrounds-2.1.0.zip",
-      "resourcepacks/Realistic Animals - MC 1.20.1 - 1.0.0.zip",
-      "resourcepacks/Realistic Mobs - MC 1.20.1 - 1.0.0.zip",
-      "resourcepacks/Realistic_chests_1.20-1.20.1.zip",
+      "resourcepacks/loadingbackgrounds-3.0.0.zip",
+      "resourcepacks/RealisticAnimalMC-1.0.0.zip",
+      "resourcepacks/RealisticMobs-1.0.0.zip",
+      "resourcepacks/Realisticchests-1.20.zip",
       "resourcepacks/Realistic_woods.zip"
     ],
     "shaderpacks": [
